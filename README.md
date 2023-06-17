@@ -1,2 +1,4 @@
 # FunnelAnalysis-LeadConversionOptimization-SAPL
 Optimizing lead conversion through detailed funnel analysis for Strent AH Pvt Limited (SAPL)
+
+In this project, a comprehensive Sales Funnel Analysis was conducted for SAPL to understand the different stages of the funnel and identify the primary reason behind the lower lead conversion ratio. Through visually informative visualizations, a detailed process map, a dynamic funnel chart, and a comprehensive funnel summary table, the progression percentages and conversion rates of leads at each stage were thoroughly analyzed. By analyzing the data, identifying bottlenecks, and providing actionable recommendations, this analysis aims to enhance lead conversion rates and maximize business opportunities for SAPL. The findings emphasize the significance of timely customer care calls to capitalize on hot leads, thereby boosting the overall conversion rate.
