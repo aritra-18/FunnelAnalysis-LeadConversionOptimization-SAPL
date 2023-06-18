@@ -5,3 +5,9 @@ In this project, a comprehensive Sales Funnel Analysis was conducted for SAPL to
 
 Process Chart:
 ![Process Chart](https://github.com/aritra-18/FunnelAnalysis-LeadConversionOptimization-SAPL/assets/116475666/680710ca-26b0-4642-a262-5c4511bb9cab)
+
+Funnel Chart:
+![Sales Funnel](https://github.com/aritra-18/FunnelAnalysis-LeadConversionOptimization-SAPL/assets/116475666/42ec2c7c-0a98-4efe-8ea4-4e9254c472fa)
+
+Funnel Report: 
+![Funnel Report](https://github.com/aritra-18/FunnelAnalysis-LeadConversionOptimization-SAPL/assets/116475666/649a1026-1da0-4f9a-98ee-d77d8c8cfe12)
